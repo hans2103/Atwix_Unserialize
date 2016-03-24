@@ -3,7 +3,7 @@
 	<modules>
 		<Atwix_Unserialize>
 			<active>true</active>
-			<codePool>local</codePool>
+			<codePool>community</codePool>
 		</Atwix_Unserialize>
 	</modules>
 </config>
