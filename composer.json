@@ -1,0 +1,11 @@
+{
+  "name": "atwix/unserialize",
+  "type": "magento-module",
+  "homepage": "https://github.com/Atwix/Atwix_Unserialize",
+  "description": "unserialize what has not been serialized",
+  "authors": [
+    {
+      "name": "Atwix"
+    }
+  ]
+}
